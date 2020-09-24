@@ -1,3 +1,15 @@
+/*
+CoronaSecure - The COVID-19 Healthband
+Made by - Arijit Das (https://github.com/arijit123student)
+Copyright - GPL V3.0 Licensed
+Don't forget to credit the author or else you will terminate the Open-Source license rules.
+Do leave out about any issues you are facing in this GitHub repository. We would be happy to solve.
+Contact the author - 
+E-mail : https://mailtoarijitdas18022006@gmail.com
+Twitter: https://twitter.com/Arijit_Student
+GitHub : https://github.com/arijitdas123student
+*/
+
 #include <math.h>
 
 unsigned int Rs = 150000;
